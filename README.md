@@ -47,7 +47,7 @@ This was repeated for all the string type attributes
 
 
 ## Plots
-Different method of data visualization were employed some of them are shown below. To refer all the plots please take a look at the [PDS_DATA_VISUALIZATION]() file
+Different method of data visualization were employed some of them are shown below. To refer all the plots please take a look at the [DATA_VISUALIZATION](https://github.com/PritamSS/DATA-VISULAIZATION-AND-ANALYSIS/blob/main/DATA_VISUALIZATION.ipynb) file
 ### Box Plots
 ![box plot](https://drive.google.com/uc?export=view&id=1qscTEqcdLFJCsYp9xY8IJ6M3cxjka5jp)
 
@@ -82,6 +82,8 @@ Standard Machine Learning models were used and this dataset was fitted and their
 | Logistic regression  | 86.1 %  |
 | Decision tree classifier  | 84.5 %  |
 | Random forest classifier  | 83.4 %  |
+
+Refer the [PDS DATA ANALYSIS](https://github.com/PritamSS/DATA-VISULAIZATION-AND-ANALYSIS/blob/main/DATA_ALGOS.ipynb) file for this code
 
 ## Contributors
 
