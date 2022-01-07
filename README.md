@@ -64,7 +64,7 @@ Inferences:
 •	'HeartDisease' and 'Oldpeak' have a positive correlation  
 
 ### Violin Plots
-![App Screenshot](https://drive.google.com/uc?export=view&id=1Pn6xwZ51Q6VDhMSRxJ9hBBe32cJrDCWR)
+![Violin](https://drive.google.com/uc?export=view&id=1Pn6xwZ51Q6VDhMSRxJ9hBBe32cJrDCWR)
 
 Inferences:  
 The following were the inferences drawn are similar to box plot but the addition of KDE gives the following insight:  
@@ -82,3 +82,8 @@ Standard Machine Learning models were used and this dataset was fitted and their
 | Logistic regression  | 86.1 %  |
 | Decision tree classifier  | 84.5 %  |
 | Random forest classifier  | 83.4 %  |
+
+## Contributors
+
+[Pritam Suttraway](https://github.com/PritamSS)  
+[Aruna Jayarajan](https://github.com/Aruna-Jayarajan)
