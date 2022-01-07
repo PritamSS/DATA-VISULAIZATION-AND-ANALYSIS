@@ -83,7 +83,7 @@ Standard Machine Learning models were used and this dataset was fitted and their
 | Decision tree classifier  | 84.5 %  |
 | Random forest classifier  | 83.4 %  |
 
-Refer the [PDS DATA ANALYSIS](https://github.com/PritamSS/DATA-VISULAIZATION-AND-ANALYSIS/blob/main/DATA_ALGOS.ipynb) file for this code
+Refer the [DATA ALGOS](https://github.com/PritamSS/DATA-VISULAIZATION-AND-ANALYSIS/blob/main/DATA_ALGOS.ipynb) file for this code
 
 ## Contributors
 
