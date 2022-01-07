@@ -39,8 +39,8 @@ All these values were replaced with integer values in the above case with 0, 1, 
 
 ```bash
 j = 0
-for i in df_heart['Sex'].unique():
-  df_heart_2['Sex']=df_heart_2['Sex'].replace(i, j)
+for i in df_heart['ChestPainType'].unique():
+  df_heart_2['ChestPainType']=df_heart_2['ChestPainType'].replace(i, j)
   j = j+1
 ```
 This was repeated for all the string type attributes
