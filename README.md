@@ -20,7 +20,7 @@ People with cardiovascular disease or who are at high cardiovascular risk (due t
 
 ### Sample Dataset
 
-![df](https://drive.google.com/uc?export=view&id=1agUlglLGiMZdf7Z0vrz0SC9QrBVjIJD5)
+![df](https://drive.google.com/uc?export=view&id=10OdLM41_8Mt_IeofxmmY5QKWv2ULcvIt)
 
 
 
@@ -49,7 +49,7 @@ This was repeated for all the string type attributes
 ## Plots
 Different method of data visualization were employed some of them are shown below. To refer all the plots please take a look at the [DATA_VISUALIZATION](https://github.com/PritamSS/DATA-VISULAIZATION-AND-ANALYSIS/blob/main/DATA_VISUALIZATION.ipynb) file
 ### Box Plots
-![box plot](https://drive.google.com/uc?export=view&id=1qscTEqcdLFJCsYp9xY8IJ6M3cxjka5jp)
+![box plot](https://drive.google.com/uc?export=view&id=1QlSgFF4tdgkG88w2Ev3nPp4en-fzQyyR)
 
 Inferences:  
 For positive subjects following are the inferences drawn:  
@@ -58,13 +58,13 @@ For positive subjects following are the inferences drawn:
 •	The median Max heart rate is lower
 
 ### Heat Maps
-![heat maps](https://drive.google.com/uc?export=view&id=1UAeJ0gDOfC5ULQ5yiGxtqZRq4wp6CMS3)
+![heat maps](https://drive.google.com/uc?export=view&id=1LqgoQ4HP_yiHSEujcwwyhj8Hlq8xtwf0)
 Inferences:  
 •	We can observe negative correlation between 'Age' and 'MaxHR' i.e younger people have higher heart rate compared to old people  
 •	'HeartDisease' and 'Oldpeak' have a positive correlation  
 
 ### Violin Plots
-![Violin](https://drive.google.com/uc?export=view&id=1Pn6xwZ51Q6VDhMSRxJ9hBBe32cJrDCWR)
+![Violin](https://drive.google.com/uc?export=view&id=1k-2YRxciPFi9I9UTHPLdngwCVYO5a75M)
 
 Inferences:  
 The following were the inferences drawn are similar to box plot but the addition of KDE gives the following insight:  
